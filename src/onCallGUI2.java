@@ -83,7 +83,7 @@ public class onCallGUI2 extends JFrame {
 			public void run() {
 				try {
 					onCallGUI2 frame = new onCallGUI2();
-					Object[] choices = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+					Object[] choices = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 					Object[] choices2 = { 1, 2 };
 					if ((frame.c1.cal1.get(Calendar.MONTH)) == 0) {
 						JFrame f2 = new JFrame();

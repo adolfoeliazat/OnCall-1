@@ -158,6 +158,8 @@ Michael Ross
 
 Raynard Griffin
 
+Marshall Floyd
+
 Steve Jones
 
 Marty Ray
@@ -165,6 +167,12 @@ Marty Ray
 
 Night Coverage
 ----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
 Raymond Turner
 
 Patrick Cameron
@@ -179,9 +187,17 @@ Raynard Griffin
 
 Marshall Floyd
 
+Michael Ross
+
 
 Night Coverage
 ----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
 
 
 01/21/2015
@@ -242,6 +258,8 @@ Tim Patterson
 
 Chris Thompson
 
+Tim Evans
+
 Gary Haulk
 
 Monty Bennett
@@ -268,6 +286,8 @@ Day Coverage
 Chris Thompson
 
 Tim Evans
+
+Tim Patterson
 
 
 Night Coverage
@@ -338,6 +358,8 @@ Alan Jones
 
 John Wilkey
 
+Ron Curtis
+
 Raymond Turner
 
 Patrick Cameron
@@ -364,6 +386,8 @@ Day Coverage
 John Wilkey
 
 Ron Curtis
+
+Alan Jones
 
 
 Night Coverage
@@ -534,6 +558,8 @@ Raynard Griffin
 
 Marshall Floyd
 
+Michael Ross
+
 Steve Jones
 
 Marty Ray
@@ -541,6 +567,12 @@ Marty Ray
 
 Night Coverage
 ----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
 Raymond Turner
 
 Patrick Cameron
@@ -555,9 +587,17 @@ Marshall Floyd
 
 Michael Ross
 
+Raynard Griffin
+
 
 Night Coverage
 ----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
 
 
 02/06/2015
@@ -618,6 +658,8 @@ Chris Thompson
 
 Tim Evans
 
+Tim Patterson
+
 Gary Haulk
 
 Monty Bennett
@@ -644,6 +686,8 @@ Day Coverage
 Tim Evans
 
 Tim Patterson
+
+Chris Thompson
 
 
 Night Coverage
@@ -703,6 +747,8345 @@ Matthew Greeson
 Gary Haulk
 
 Monty Bennett
+
+
+
+02/12/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+02/13/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+02/14/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+02/15/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+02/16/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+02/17/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+02/18/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+02/19/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+02/20/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+02/21/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+02/22/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+02/23/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+02/24/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+02/25/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+02/26/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+02/27/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+02/28/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+03/01/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+03/02/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+03/03/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+03/04/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+03/05/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+03/06/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+03/07/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+03/08/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+03/09/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+03/10/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+03/11/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+03/12/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+03/13/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+03/14/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+03/15/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+03/16/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+03/17/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+03/18/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+03/19/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+03/20/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+03/21/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+
+03/22/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+
+03/23/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+03/24/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+03/25/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+03/26/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+
+03/27/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+
+03/28/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+03/29/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+
+03/30/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+
+03/31/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+04/01/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+04/02/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+04/03/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+04/04/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+04/05/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+04/06/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+04/07/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+04/08/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+04/09/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+04/10/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+04/11/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+04/12/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+04/13/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+04/14/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+04/15/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+04/16/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+04/17/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+04/18/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+04/19/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+04/20/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+04/21/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+04/22/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+04/23/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+04/24/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+04/25/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+04/26/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+04/27/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+04/28/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+04/29/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+04/30/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+05/01/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+05/02/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+05/03/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+05/04/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+05/05/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+05/06/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+05/07/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+05/08/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+
+05/09/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+
+05/10/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+05/11/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+05/12/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+05/13/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+
+05/14/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+
+05/15/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+05/16/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+
+05/17/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+
+05/18/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+05/19/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+05/20/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+05/21/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+05/22/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+05/23/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+05/24/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+05/25/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+05/26/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+05/27/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+05/28/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+05/29/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+05/30/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+05/31/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+06/01/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+06/02/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+06/03/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+06/04/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+06/05/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+06/06/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+06/07/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+06/08/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+06/09/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+06/10/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+06/11/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+06/12/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+06/13/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+06/14/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+06/15/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+06/16/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+06/17/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+06/18/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+06/19/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+06/20/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+06/21/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+06/22/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+06/23/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+06/24/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+06/25/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+
+06/26/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+
+06/27/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+06/28/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+06/29/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+06/30/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+
+07/01/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+
+07/02/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+07/03/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+
+07/04/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+
+07/05/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+07/06/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+07/07/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+07/08/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+07/09/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+07/10/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+07/11/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+07/12/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+07/13/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+07/14/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+07/15/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+07/16/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+07/17/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+07/18/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+07/19/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+07/20/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+07/21/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+07/22/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+07/23/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+07/24/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+07/25/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+07/26/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+07/27/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+07/28/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+07/29/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+07/30/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+07/31/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+08/01/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+08/02/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+08/03/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+08/04/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+08/05/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+08/06/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+08/07/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+08/08/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+08/09/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+08/10/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+08/11/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+08/12/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+
+08/13/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+
+08/14/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+08/15/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+08/16/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+08/17/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+
+08/18/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+
+08/19/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+08/20/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+
+08/21/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+
+08/22/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+08/23/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+08/24/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+08/25/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+08/26/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+08/27/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+08/28/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+08/29/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+08/30/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+08/31/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+09/01/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+09/02/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+09/03/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+09/04/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+09/05/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+09/06/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+09/07/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+09/08/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+09/09/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+09/10/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+09/11/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+09/12/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+09/13/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+09/14/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+09/15/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+09/16/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+09/17/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+09/18/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+09/19/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+09/20/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+09/21/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+09/22/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+09/23/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+09/24/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+09/25/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+09/26/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+09/27/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+09/28/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+09/29/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+
+09/30/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+
+10/01/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+10/02/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+10/03/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+10/04/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+
+10/05/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+
+10/06/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+10/07/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+
+10/08/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+
+10/09/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+10/10/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+10/11/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+10/12/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+10/13/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+10/14/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+10/15/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+10/16/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+10/17/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+10/18/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+10/19/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+10/20/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+10/21/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+10/22/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+10/23/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+10/24/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+10/25/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+10/26/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+10/27/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+10/28/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+10/29/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+10/30/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+10/31/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+11/01/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+11/02/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+11/03/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+11/04/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+11/05/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+11/06/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+11/07/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+11/08/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+11/09/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+11/10/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+11/11/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+11/12/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+11/13/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+11/14/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+11/15/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+11/16/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+
+11/17/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+
+11/18/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+11/19/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+11/20/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+11/21/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+
+11/22/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+
+11/23/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+11/24/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+
+11/25/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+
+11/26/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+11/27/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+11/28/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+
+11/29/2015
+
+Day Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+Night Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+
+11/30/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+12/01/2015
+
+Day Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+12/02/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+
+12/03/2015
+
+Day Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+Night Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+
+12/04/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+12/05/2015
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+12/06/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+
+12/07/2015
+
+Day Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+Night Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+
+12/08/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+Steve Jones
+
+Marty Ray
+
+
+
+12/09/2015
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+12/10/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+12/11/2015
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+12/12/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+12/13/2015
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+
+12/14/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+
+12/15/2015
+
+Day Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+
+Night Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+
+
+12/16/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+12/17/2015
+
+Day Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+12/18/2015
+
+Day Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+
+Night Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+
+
+12/19/2015
+
+Day Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+
+Night Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+
+
+12/20/2015
+
+Day Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+12/21/2015
+
+Day Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+12/22/2015
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+
+12/23/2015
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+12/24/2015
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+12/25/2015
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+12/26/2015
+
+Day Coverage
+----------
+Chris Thompson
+
+Tim Evans
+
+Tim Patterson
+
+
+Night Coverage
+----------
+Jerome Jones
+
+John Davis
+
+Ricky Conaway
+
+
+
+12/27/2015
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+
+
+12/28/2015
+
+Day Coverage
+----------
+Jason Young
+
+Adam Young
+
+Ricky Simpson Jr
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+Matthew Greeson
+
+Terry Wyatt
+
+David Ward
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+12/29/2015
+
+Day Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+Steve Jones
+
+Marty Ray
+
+
+
+12/30/2015
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+
+
+12/31/2015
+
+Day Coverage
+----------
+Shane Grady
+
+Jack Adams
+
+Kevin Bray
+
+
+Night Coverage
+----------
+Cody Pass
+
+Mark Passley
+
+Doug Davis
+
+
+
+01/01/2016
+
+Day Coverage
+----------
+
+Night Coverage
+----------
+
+
+01/02/2016
+
+Day Coverage
+----------
+
+Night Coverage
+----------
+
+
+01/03/2016
+
+Day Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
+
+Steve Jones
+
+Marty Ray
+
+
+Night Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+Raymond Turner
+
+Patrick Cameron
+
+
+
+01/04/2016
+
+Day Coverage
+----------
+Marshall Floyd
+
+Michael Ross
+
+Raynard Griffin
+
+
+Night Coverage
+----------
+Alan Jones
+
+John Wilkey
+
+Ron Curtis
+
+
+
+01/05/2016
+
+Day Coverage
+----------
+Mark Passley
+
+Doug Davis
+
+Cody Pass
+
+
+Night Coverage
+----------
+Jack Adams
+
+Kevin Bray
+
+Shane Grady
+
+
+
+01/06/2016
+
+Day Coverage
+----------
+Doug Davis
+
+Cody Pass
+
+Mark Passley
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Kevin Bray
+
+Shane Grady
+
+Jack Adams
+
+Steve Jones
+
+Marty Ray
+
+
+
+01/07/2016
+
+Day Coverage
+----------
+Tim Evans
+
+Tim Patterson
+
+Chris Thompson
+
+Gary Haulk
+
+Monty Bennett
+
+
+Night Coverage
+----------
+John Davis
+
+Ricky Conaway
+
+Jerome Jones
+
+Ronnie Dean
+
+Noel Luna
+
+
+
+01/08/2016
+
+Day Coverage
+----------
+Tim Patterson
+
+Chris Thompson
+
+Tim Evans
+
+
+Night Coverage
+----------
+Ricky Conaway
+
+Jerome Jones
+
+John Davis
+
+
+
+01/09/2016
+
+Day Coverage
+----------
+Adam Young
+
+Ricky Simpson Jr
+
+Jason Young
+
+
+Night Coverage
+----------
+Terry Wyatt
+
+David Ward
+
+Matthew Greeson
+
+
+
+01/10/2016
+
+Day Coverage
+----------
+Ricky Simpson Jr
+
+Jason Young
+
+Adam Young
+
+Ronnie Dean
+
+Noel Luna
+
+
+Night Coverage
+----------
+David Ward
+
+Matthew Greeson
+
+Terry Wyatt
+
+Gary Haulk
+
+Monty Bennett
+
+
+
+01/11/2016
+
+Day Coverage
+----------
+John Wilkey
+
+Ron Curtis
+
+Alan Jones
+
+Raymond Turner
+
+Patrick Cameron
+
+
+Night Coverage
+----------
+Michael Ross
+
+Raynard Griffin
+
+Marshall Floyd
+
+Steve Jones
+
+Marty Ray
+
+
+
+01/12/2016
+
+Day Coverage
+----------
+Ron Curtis
+
+Alan Jones
+
+John Wilkey
+
+
+Night Coverage
+----------
+Raynard Griffin
+
+Marshall Floyd
+
+Michael Ross
 
 
 

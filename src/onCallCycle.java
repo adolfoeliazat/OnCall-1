@@ -19,7 +19,7 @@ public class onCallCycle {
 	// number of current rotation (4 per cycle)
 	public int cycleOfYear = ((cal1.get(Calendar.DAY_OF_YEAR) - 3) / 16);
 	public int onCallCycle = cycleOfYear % 7;
-	public int numberOfDays = 30;
+	public int numberOfDays = 365;
 
 	// Crew names, initialized from txt file
 	String[] aNames = new String[9];
@@ -73,9 +73,9 @@ public class onCallCycle {
 			checkForBlanks(output2, "A", 8);
 		}
 
-		c1.check0(output2, c1.B.e[0].callStatus, c1.B.e[0].name, 1, "B");
-		c1.check0(output2, c1.B.e[1].callStatus, c1.B.e[1].name, 2, "B");
-		c1.check0(output2, c1.B.e[2].callStatus, c1.B.e[2].name, 3, "B");
+		c1.check0(output2, c1.B.e[0].callStatus, c1.B.e[0].name, 0, "B");
+		c1.check0(output2, c1.B.e[1].callStatus, c1.B.e[1].name, 1, "B");
+		c1.check0(output2, c1.B.e[2].callStatus, c1.B.e[2].name, 2, "B");
 
 		if (c1.B.e[4].callStatus == 0) {
 			checkForBlanks(output2, "B", 4);
@@ -87,9 +87,9 @@ public class onCallCycle {
 			checkForBlanks(output2, "B", 8);
 		}
 
-		c1.check0(output2, c1.C.e[0].callStatus, c1.C.e[0].name, 1, "C");
-		c1.check0(output2, c1.C.e[1].callStatus, c1.C.e[1].name, 2, "C");
-		c1.check0(output2, c1.C.e[2].callStatus, c1.C.e[2].name, 3, "C");
+		c1.check0(output2, c1.C.e[0].callStatus, c1.C.e[0].name, 0, "C");
+		c1.check0(output2, c1.C.e[1].callStatus, c1.C.e[1].name, 1, "C");
+		c1.check0(output2, c1.C.e[2].callStatus, c1.C.e[2].name, 2, "C");
 
 		if (c1.C.e[4].callStatus == 0) {
 			checkForBlanks(output2, "C", 4);
@@ -101,9 +101,9 @@ public class onCallCycle {
 			checkForBlanks(output2, "C", 8);
 		}
 
-		c1.check0(output2, c1.D.e[0].callStatus, c1.D.e[0].name, 1, "D");
-		c1.check0(output2, c1.D.e[1].callStatus, c1.D.e[1].name, 2, "D");
-		c1.check0(output2, c1.D.e[2].callStatus, c1.D.e[2].name, 3, "D");
+		c1.check0(output2, c1.D.e[0].callStatus, c1.D.e[0].name, 0, "D");
+		c1.check0(output2, c1.D.e[1].callStatus, c1.D.e[1].name, 1, "D");
+		c1.check0(output2, c1.D.e[2].callStatus, c1.D.e[2].name, 2, "D");
 
 		if (c1.D.e[4].callStatus == 0) {
 			checkForBlanks(output2, "D", 4);
@@ -119,9 +119,9 @@ public class onCallCycle {
 		output2.println("Night Coverage");
 		output2.println("----------");
 
-		c1.check1(output2, c1.A.e[0].callStatus, c1.A.e[0].name, 1, "A");
-		c1.check1(output2, c1.A.e[1].callStatus, c1.A.e[1].name, 2, "A");
-		c1.check1(output2, c1.A.e[2].callStatus, c1.A.e[2].name, 3, "A");
+		c1.check1(output2, c1.A.e[0].callStatus, c1.A.e[0].name, 0, "A");
+		c1.check1(output2, c1.A.e[1].callStatus, c1.A.e[1].name, 1, "A");
+		c1.check1(output2, c1.A.e[2].callStatus, c1.A.e[2].name, 2, "A");
 
 		if (c1.A.e[4].callStatus == 1) {
 			checkForBlanks(output2, "A", 4);
@@ -133,9 +133,9 @@ public class onCallCycle {
 			checkForBlanks(output2, "A", 8);
 		}
 
-		c1.check1(output2, c1.B.e[0].callStatus, c1.B.e[0].name, 1, "B");
-		c1.check1(output2, c1.B.e[1].callStatus, c1.B.e[1].name, 2, "B");
-		c1.check1(output2, c1.B.e[2].callStatus, c1.B.e[2].name, 3, "B");
+		c1.check1(output2, c1.B.e[0].callStatus, c1.B.e[0].name, 0, "B");
+		c1.check1(output2, c1.B.e[1].callStatus, c1.B.e[1].name, 1, "B");
+		c1.check1(output2, c1.B.e[2].callStatus, c1.B.e[2].name, 2, "B");
 
 		if (c1.B.e[4].callStatus == 1) {
 			checkForBlanks(output2, "B", 4);
@@ -147,9 +147,9 @@ public class onCallCycle {
 			checkForBlanks(output2, "B", 8);
 		}
 
-		c1.check1(output2, c1.C.e[0].callStatus, c1.C.e[0].name, 1, "C");
-		c1.check1(output2, c1.C.e[1].callStatus, c1.C.e[1].name, 2, "C");
-		c1.check1(output2, c1.C.e[2].callStatus, c1.C.e[2].name, 3, "C");
+		c1.check1(output2, c1.C.e[0].callStatus, c1.C.e[0].name, 0, "C");
+		c1.check1(output2, c1.C.e[1].callStatus, c1.C.e[1].name, 1, "C");
+		c1.check1(output2, c1.C.e[2].callStatus, c1.C.e[2].name, 2, "C");
 
 		if (c1.C.e[4].callStatus == 1) {
 			checkForBlanks(output2, "C", 4);
@@ -268,8 +268,8 @@ public class onCallCycle {
 				}
 			}
 		}
-		if (!crewLetter.equals("D")) {
-			if (this.D.e[position].name.equals("")) {
+		if (crewLetter.equals("D")) {
+			if (!this.D.e[position].name.equals("")) {
 				if (callStat == 1) {
 					output2.print(name);
 					output2.println();
