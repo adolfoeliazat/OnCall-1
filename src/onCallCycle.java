@@ -1,4 +1,3 @@
-
 import java.io.File;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
@@ -49,6 +48,10 @@ public class onCallCycle {
 	}
 
 	public void printOutput(onCallCycle c1, PrintWriter output2, File file) {
+		c1.A.setCrewLetter("A");
+		c1.B.setCrewLetter("B");
+		c1.C.setCrewLetter("C");
+		c1.D.setCrewLetter("D");
 		SimpleDateFormat df = new SimpleDateFormat();
 		df.applyPattern("MM/dd/yyyy");
 		output2.println(df.format(cal1.getTime()));
@@ -56,175 +59,222 @@ public class onCallCycle {
 		output2.println("Day Coverage");
 		output2.println("----------");
 
-		c1.check0(output2, c1.A.e[0].callStatus, c1.A.e[0].name);
-		c1.check0(output2, c1.A.e[1].callStatus, c1.A.e[1].name);
-		c1.check0(output2, c1.A.e[2].callStatus, c1.A.e[2].name);
+		c1.check0(output2, c1.A.e[0].callStatus, c1.A.e[0].name, 0, "A");
+		c1.check0(output2, c1.A.e[1].callStatus, c1.A.e[1].name, 1, "A");
+		c1.check0(output2, c1.A.e[2].callStatus, c1.A.e[2].name, 2, "A");
 
 		if (c1.A.e[4].callStatus == 0) {
-			output2.print(c1.A.e[4].name);
-			output2.println();
-			output2.print(c1.A.e[5].name);
-			output2.println();
-			output2.print(c1.A.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "A", 4);
+			checkForBlanks(output2, "A", 5);
+			checkForBlanks(output2, "A", 6);
 		}
 		if (c1.A.e[7].callStatus == 0) {
-			output2.print(c1.A.e[7].name);
-			output2.println();
-			output2.print(c1.A.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "A", 7);
+			checkForBlanks(output2, "A", 8);
 		}
 
-		c1.check0(output2, c1.B.e[0].callStatus, c1.B.e[0].name);
-		c1.check0(output2, c1.B.e[1].callStatus, c1.B.e[1].name);
-		c1.check0(output2, c1.B.e[2].callStatus, c1.B.e[2].name);
+		c1.check0(output2, c1.B.e[0].callStatus, c1.B.e[0].name, 1, "B");
+		c1.check0(output2, c1.B.e[1].callStatus, c1.B.e[1].name, 2, "B");
+		c1.check0(output2, c1.B.e[2].callStatus, c1.B.e[2].name, 3, "B");
 
 		if (c1.B.e[4].callStatus == 0) {
-			output2.print(c1.B.e[4].name);
-			output2.println();
-			output2.print(c1.B.e[5].name);
-			output2.println();
-			output2.print(c1.B.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "B", 4);
+			checkForBlanks(output2, "B", 5);
+			checkForBlanks(output2, "B", 6);
 		}
 		if (c1.B.e[7].callStatus == 0) {
-			output2.print(c1.B.e[7].name);
-			output2.println();
-			output2.print(c1.B.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "B", 7);
+			checkForBlanks(output2, "B", 8);
 		}
 
-		c1.check0(output2, c1.C.e[0].callStatus, c1.C.e[0].name);
-		c1.check0(output2, c1.C.e[1].callStatus, c1.C.e[1].name);
-		c1.check0(output2, c1.C.e[2].callStatus, c1.C.e[2].name);
+		c1.check0(output2, c1.C.e[0].callStatus, c1.C.e[0].name, 1, "C");
+		c1.check0(output2, c1.C.e[1].callStatus, c1.C.e[1].name, 2, "C");
+		c1.check0(output2, c1.C.e[2].callStatus, c1.C.e[2].name, 3, "C");
 
 		if (c1.C.e[4].callStatus == 0) {
-			output2.print(c1.C.e[4].name);
-			output2.println();
-			output2.print(c1.C.e[5].name);
-			output2.println();
-			output2.print(c1.C.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "C", 4);
+			checkForBlanks(output2, "C", 5);
+			checkForBlanks(output2, "C", 6);
 		}
 		if (c1.C.e[7].callStatus == 0) {
-			output2.print(c1.C.e[7].name);
-			output2.println();
-			output2.print(c1.C.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "C", 7);
+			checkForBlanks(output2, "C", 8);
 		}
 
-		c1.check0(output2, c1.D.e[0].callStatus, c1.D.e[0].name);
-		c1.check0(output2, c1.D.e[1].callStatus, c1.D.e[1].name);
-		c1.check0(output2, c1.D.e[2].callStatus, c1.D.e[2].name);
+		c1.check0(output2, c1.D.e[0].callStatus, c1.D.e[0].name, 1, "D");
+		c1.check0(output2, c1.D.e[1].callStatus, c1.D.e[1].name, 2, "D");
+		c1.check0(output2, c1.D.e[2].callStatus, c1.D.e[2].name, 3, "D");
 
 		if (c1.D.e[4].callStatus == 0) {
-			output2.print(c1.D.e[4].name);
-			output2.println();
-			output2.print(c1.D.e[5].name);
-			output2.println();
-			output2.print(c1.D.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "D", 4);
+			checkForBlanks(output2, "D", 5);
+			checkForBlanks(output2, "D", 6);
 		}
 		if (c1.D.e[7].callStatus == 0) {
-			output2.print(c1.D.e[7].name);
-			output2.println();
-			output2.print(c1.D.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "D", 7);
+			checkForBlanks(output2, "D", 8);
 		}
 
 		output2.println();
 		output2.println("Night Coverage");
 		output2.println("----------");
 
-		c1.check1(output2, c1.A.e[0].callStatus, c1.A.e[0].name);
-		c1.check1(output2, c1.A.e[1].callStatus, c1.A.e[1].name);
-		c1.check1(output2, c1.A.e[2].callStatus, c1.A.e[2].name);
+		c1.check1(output2, c1.A.e[0].callStatus, c1.A.e[0].name, 1, "A");
+		c1.check1(output2, c1.A.e[1].callStatus, c1.A.e[1].name, 2, "A");
+		c1.check1(output2, c1.A.e[2].callStatus, c1.A.e[2].name, 3, "A");
 
 		if (c1.A.e[4].callStatus == 1) {
-			output2.print(c1.A.e[4].name);
-			output2.println();
-			output2.print(c1.A.e[5].name);
-			output2.println();
-			output2.print(c1.A.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "A", 4);
+			checkForBlanks(output2, "A", 5);
+			checkForBlanks(output2, "A", 6);
 		}
 		if (c1.A.e[7].callStatus == 1) {
-			output2.print(c1.A.e[7].name);
-			output2.println();
-			output2.print(c1.A.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "A", 7);
+			checkForBlanks(output2, "A", 8);
 		}
 
-		c1.check1(output2, c1.B.e[0].callStatus, c1.B.e[0].name);
-		c1.check1(output2, c1.B.e[1].callStatus, c1.B.e[1].name);
-		c1.check1(output2, c1.B.e[2].callStatus, c1.B.e[2].name);
+		c1.check1(output2, c1.B.e[0].callStatus, c1.B.e[0].name, 1, "B");
+		c1.check1(output2, c1.B.e[1].callStatus, c1.B.e[1].name, 2, "B");
+		c1.check1(output2, c1.B.e[2].callStatus, c1.B.e[2].name, 3, "B");
 
 		if (c1.B.e[4].callStatus == 1) {
-			output2.print(c1.B.e[4].name);
-			output2.println();
-			output2.print(c1.B.e[5].name);
-			output2.println();
-			output2.print(c1.B.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "B", 4);
+			checkForBlanks(output2, "B", 5);
+			checkForBlanks(output2, "B", 6);
 		}
 		if (c1.B.e[7].callStatus == 1) {
-			output2.print(c1.B.e[7].name);
-			output2.println();
-			output2.print(c1.B.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "B", 7);
+			checkForBlanks(output2, "B", 8);
 		}
 
-		c1.check1(output2, c1.C.e[0].callStatus, c1.C.e[0].name);
-		c1.check1(output2, c1.C.e[1].callStatus, c1.C.e[1].name);
-		c1.check1(output2, c1.C.e[2].callStatus, c1.C.e[2].name);
+		c1.check1(output2, c1.C.e[0].callStatus, c1.C.e[0].name, 1, "C");
+		c1.check1(output2, c1.C.e[1].callStatus, c1.C.e[1].name, 2, "C");
+		c1.check1(output2, c1.C.e[2].callStatus, c1.C.e[2].name, 3, "C");
 
 		if (c1.C.e[4].callStatus == 1) {
-			output2.print(c1.C.e[4].name);
-			output2.println();
-			output2.print(c1.C.e[5].name);
-			output2.println();
-			output2.print(c1.C.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "C", 4);
+			checkForBlanks(output2, "C", 5);
+			checkForBlanks(output2, "C", 6);
 		}
 		if (c1.C.e[7].callStatus == 1) {
-			output2.print(c1.C.e[7].name);
-			output2.println();
-			output2.print(c1.C.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "C", 7);
+			checkForBlanks(output2, "C", 8);
 		}
 
-		c1.check1(output2, c1.D.e[0].callStatus, c1.D.e[0].name);
-		c1.check1(output2, c1.D.e[1].callStatus, c1.D.e[1].name);
-		c1.check1(output2, c1.D.e[2].callStatus, c1.D.e[2].name);
+		c1.check1(output2, c1.D.e[0].callStatus, c1.D.e[0].name, 0, "D");
+		c1.check1(output2, c1.D.e[1].callStatus, c1.D.e[1].name, 1, "D");
+		c1.check1(output2, c1.D.e[2].callStatus, c1.D.e[2].name, 2, "D");
 
 		if (c1.D.e[4].callStatus == 1) {
-			output2.print(c1.D.e[4].name);
-			output2.println();
-			output2.print(c1.D.e[5].name);
-			output2.println();
-			output2.print(c1.D.e[6].name);
-			output2.println();
+			checkForBlanks(output2, "D", 4);
+			checkForBlanks(output2, "D", 5);
+			checkForBlanks(output2, "D", 6);
 		}
 		if (c1.D.e[7].callStatus == 1) {
-			output2.print(c1.D.e[7].name);
-			output2.println();
-			output2.print(c1.D.e[8].name);
-			output2.println();
+			checkForBlanks(output2, "D", 7);
+			checkForBlanks(output2, "D", 8);
 		}
 		output2.println();
 	}
 
-	public void check0(PrintWriter output2, int callStat, String name) {
-		if (callStat == 0) {
-			output2.print(name);
-			output2.println();
+	// if position is blank, print next
+	public void checkForBlanks(PrintWriter output2, String crewLetter,
+			int position) {
+		if (crewLetter.equals("A")) {
+			if (!this.A.e[position].name.equals("")) {
+				output2.print(this.A.e[position].name);
+				output2.println();
+			} 
+		}
+		if (crewLetter.equals("B")) {
+			if (!this.B.e[position].name.equals("")) {
+				output2.print(this.B.e[position].name);
+				output2.println();
+			}
+		}
+		if (crewLetter.equals("C")) {
+			if (!this.C.e[position].name.equals("")) {
+				output2.print(this.C.e[position].name);
+				output2.println();
+			} 
+		}
+		if (crewLetter.equals("D")) {
+			if (!this.D.e[position].name.equals("")) {
+				output2.print(this.D.e[position].name);
+				output2.println();
+			} 
 		}
 	}
 
-	public void check1(PrintWriter output2, int callStat, String name) {
-		if (callStat == 1) {
-			output2.print(name);
-			output2.println();
+	public void check0(PrintWriter output2, int callStat, String name,
+			int position, String crewLetter) {
+		if (crewLetter.equals("A")) {
+			if (!this.A.e[position].name.equals("")) {
+				if (callStat == 0) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+		if (crewLetter.equals("B")) {
+			if (!this.B.e[position].name.equals("")) {
+				if (callStat == 0) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+		if (crewLetter.equals("C")) {
+			if (!this.C.e[position].name.equals("")) {
+				if (callStat == 0) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+		if (crewLetter.equals("D")) {
+			if (!this.D.e[position].name.equals("")) {
+				if (callStat == 0) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+	}
+
+	public void check1(PrintWriter output2, int callStat, String name,
+			int position, String crewLetter) {
+		if (crewLetter.equals("A")) {
+			if (!this.A.e[position].name.equals("")) {
+				if (callStat == 1) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+		if (crewLetter.equals("B")) {
+			if (!this.B.e[position].name.equals("")) {
+				if (callStat == 1) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+		if (crewLetter.equals("C")) {
+			if (!this.C.e[position].name.equals("")) {
+				if (callStat == 1) {
+					output2.print(name);
+					output2.println();
+				}
+			}
+		}
+		if (!crewLetter.equals("D")) {
+			if (this.D.e[position].name.equals("")) {
+				if (callStat == 1) {
+					output2.print(name);
+					output2.println();
+				}
+			}
 		}
 	}
 

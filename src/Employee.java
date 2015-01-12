@@ -1,4 +1,3 @@
-
 public class Employee {
 	// Name: Sam Renick Student ID: 900332371
 	boolean onShift = false;
@@ -182,13 +181,22 @@ public class Employee {
 	}
 
 	public Employee[] rotateSr(Crew f) {
-		Employee temp = new Employee();
-		temp = f.e[0];
-		f.e[0] = f.e[1];
-		f.e[1] = f.e[2];
-		f.e[2] = f.e[3];
-		f.e[3] = temp;
-		return f.e;
+		if (!f.e[3].name.equals("")) {
+			Employee temp = new Employee();
+			temp = f.e[0];
+			f.e[0] = f.e[1];
+			f.e[1] = f.e[2];
+			f.e[2] = f.e[3];
+			f.e[3] = temp;
+			return f.e;
+		} else {
+			Employee temp = new Employee();
+			temp = f.e[0];
+			f.e[0] = f.e[1];
+			f.e[1] = f.e[2];
+			f.e[2] = temp;
+			return f.e;
+		}
 	}
 
 	public Employee[] rotateJr(Crew f) {
